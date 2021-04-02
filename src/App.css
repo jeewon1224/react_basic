@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0;}
+header{width: 100%;height: auto; background: aliceblue; padding: 20px 0; text-align: center;}
+section{width: 100%; height: auto; background: yellowgreen; padding: 20px 0; text-align: center;}
+section h2{font-size: 20px;}
+footer{width: 100%; height: auto; background: thistle; padding: 20px 0; text-align: center;}
